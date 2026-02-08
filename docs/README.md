@@ -1,6 +1,6 @@
-# Introduction to Rez
+# Rez
 
-Rez is a high-performance, AI-driven trading agent architected for the Hyperliquid decentralized exchange. By merging the analytical depth of Large Language Models (LLMs) with millisecond-accurate market data, Rez automates complex trading strategies with a "human-in-the-loop" reasoning style.
+Rez is an agentic execution & intelligence layer for perpetual derivatives. We are building a non‑custodial platform & infra where on‑chain agents autonomously manage perps with 0 manual commands.
 
 ## What is Rez?
 
